@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: nowrap;
     background-color: #A6341B; 
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     border-radius: 5px;
     justify-content: space-around;
@@ -50,8 +50,8 @@ height: 300px;
     display: flex;
     flex-wrap: nowrap;
     background-color: #A6341B; 
-    font-size: 30px;
-    text-align: center;
+    font-size: 20px;
+    text-align: justify;
     border-radius: 5px;
     justify-content: space-around;
     margin: 5px;
@@ -67,6 +67,25 @@ height: 300px;
         border: 2px solid rgb(255, 255, 255);
         margin: 20px;
         padding: 20px;
+       
     }
+.lista1{
+    font-size: 20px;
+    text-align: justify;
+    list-style-type: disc;
 
-  
+}
+.lista2{
+    font-size: 20px;
+    text-align: justify;
+    list-style-type: circle;
+    font-style: normal;
+}
+.flex-container3{
+    font-size: 25px;
+}
+.imagen2{
+    margin: 20px;
+    padding: 20px;
+  text-align: center;
+}
